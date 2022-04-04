@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Html,Css,JavaScript**
 
-- 👯 I’m looking to collaborate on **Javascript**
+- 👯 I’m looking to collaborate on **Web Company **
 
 - 🤝 I’m looking for help with **Website**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Pavanchambhare88@gmail.com**
 
-- ⚡ Fun fact **Hey**
+- ⚡ Fun fact **Lern More**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
