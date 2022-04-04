@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Html,Css,JavaScript**
 
-- 👯 I’m looking to collaborate on **Web Company **
+- 👯 I’m looking to collaborate on **Web Company**
 
 - 🤝 I’m looking for help with **Website**
 
